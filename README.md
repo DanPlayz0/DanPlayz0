@@ -15,7 +15,9 @@
 | Development Website | A simple website describing about my development | [Link](https://voiddevs.com) [GitHub](https://github.com/TheVoidDevs/) |
 | Portfolio Website | A simple website describing about me | [Link](https://danplayz.com) |
 | Void Bots | A discord botlist made with express and ejs. | [Link](https://voidbots.net) [Docs](https://docs.voidbots.net) |
-| Void Servers | A discord server list made with express and ejs! | [Link](https://voidlist.xyz) [GitHub](https://github.com/TheVoidDevs/VoidServers) |
+| Void Servers | A discord server list made with express and ejs! | [GitHub](https://github.com/TheVoidDevs/VoidServers) |
+| Primo (Techy) | A discord bot that has a lot of features! | [Link](https://primo.wtf) [GitHub](https://github.com/DanPlayz0/Techy) |
+| Soundboard | A discord bot that plays sound effects into a voice channel! | [Link](https://soundboard.vd.wtf) [GitHub](https://github.com/DanPlayz0/Soundboard) |
 
 ## My stats
 
