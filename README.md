@@ -1,7 +1,7 @@
 # Hey, so you found me!
 
-- 🔭 Currently working on nothing
-- 🌱 Currently learning Java
+- 🔭 Currently working on a secret project
+- 🌱 Currently learning TypeScript
 - 📫 Join [Void Bots](https://voidbots.net/join) and have some talk and maybe submit a few bots...
 - ⚡ Fact: My first ever language to learn was Java!
 - 🌐 You can check out my website https://danplayz.com!
