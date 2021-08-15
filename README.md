@@ -16,11 +16,12 @@
 | Portfolio Website | A simple website describing about me | [Link](https://danplayz.com) |
 | Void Bots | A discord botlist made with express and ejs. | [Link](https://voidbots.net) [Docs](https://docs.voidbots.net) [NPM](https://www.npmjs.com/package/voidbots) |
 | Void Servers | A discord server list made with express and ejs! | [GitHub](https://github.com/TheVoidDevs/VoidServers) |
-| Primo (formally Techy) | A discord bot that has a lot of features! | [Link](https://primo.wtf) [GitHub (Private)](https://github.com/DanPlayz0/Techy) |
-| Soundboard | A discord bot that plays sound effects into a voice channel! | [Link](https://soundboard.vd.wtf) [GitHub (Private)](https://github.com/DanPlayz0/Soundboard) |
+| Primo | A discord bot that has a lot of features! | [Link](https://primo.vd.wtf) [Invite Primo](https://primo.vd.wtf) |
+| Soundboard | A discord bot that plays sound effects into a voice channel! | [Link](https://soundboard.vd.wtf) [Invite SoundBoard](https://soundboard.vd.wtf/invite) |
 | JAPI.Rest | A simple api made with fastify and nodejs | [Link](https://japi.rest) [Docs](https://docs.japi.rest) [GitHub](https://github.com/JapiRest/) |
 
 ## My Github Statistics
+These stats are based off my public repositories. (For those who are not as bright, this means that private repositories are not tracked.)
 
 ![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danplayz0&theme=tokyonight&layout=compact)
 
