@@ -12,13 +12,13 @@
 
 | Name | Description | Link |
 |------|------|-----------|
-| Development Website | A simple website describing about my development | [Link](https://voiddevs.com) [GitHub](https://github.com/TheVoidDevs/) |
-| Portfolio Website | A simple website describing about me | [Link](https://danplayz.com) |
-| Void Bots | A discord botlist made with express and ejs. | [Link](https://voidbots.net) [Docs](https://docs.voidbots.net) [NPM](https://www.npmjs.com/package/voidbots) |
+| Development Website | A simple website describing about my development | [Website](https://voiddevs.com) [GitHub](https://github.com/TheVoidDevs/) |
+| Portfolio Website | A simple website describing about me | [Website](https://danplayz.com) |
+| Void Bots | A discord botlist made with express and ejs. | [Website](https://voidbots.net) [Docs](https://docs.voidbots.net) [NPM](https://www.npmjs.com/package/voidbots) |
 | Void Servers | A discord server list made with express and ejs! | [GitHub](https://github.com/TheVoidDevs/VoidServers) |
-| Primo | A discord bot that has a lot of features! | [Link](https://primo.vd.wtf) [Invite Primo](https://primo.vd.wtf) |
-| Soundboard | A discord bot that plays sound effects into a voice channel! | [Link](https://soundboard.vd.wtf) [Invite SoundBoard](https://soundboard.vd.wtf/invite) |
-| JAPI.Rest | A simple api made with fastify and nodejs | [Link](https://japi.rest) [Docs](https://docs.japi.rest) [GitHub](https://github.com/JapiRest/) |
+| Primo | A discord bot that has a lot of features! | [Website](https://primo.vd.wtf) [Invite](https://primo.vd.wtf) |
+| Soundboard | A discord bot that plays sound effects into a voice channel! | [Website](https://soundboard.vd.wtf) [Invite](https://soundboard.vd.wtf/invite) |
+| JAPI.Rest | A simple api made with fastify and nodejs | [Website](https://japi.rest) [Docs](https://docs.japi.rest) [GitHub](https://github.com/JapiRest/) |
 
 ## My Github Statistics
 These stats are based off my public repositories. (For those who are not as bright, this means that private repositories are not tracked.)
