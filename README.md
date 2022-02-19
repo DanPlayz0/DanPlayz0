@@ -1,24 +1,11 @@
 # Hey, so you found me!
 
 - 🔭 Currently working on a secret project
-- 🌱 Currently learning TypeScript
-- 📫 Join [Void Bots](https://voidbots.net/join) and have some talk and maybe submit a few bots...
-- ⚡ Fact: My first ever language to learn was Java!
+- 🌱 Currently re-learning Java 
+- 📫 Join [Void Bots](https://voidbots.net/join) and have some talk and maybe submit a few Discord bots...
+- ⚡ Fact: My first ever language to learn was Java for minecraft plugins!
 - 🌐 You can check out my website https://danplayz.com!
-- 💻 My Development Organization: https://github.com/TheVoidDevs
-- 💻 My Development Website: https://voiddevs.com
-
-## My main projects
-
-| Name | Description | Link |
-|------|------|-----------|
-| Development Website | A simple website describing about my development | [Website](https://voiddevs.com) [GitHub](https://github.com/TheVoidDevs/) |
-| Portfolio Website | A simple website describing about me | [Website](https://danplayz.com) |
-| Void Bots | A discord botlist made with express and ejs. | [Website](https://voidbots.net) [Docs](https://docs.voidbots.net) [NPM](https://www.npmjs.com/package/voidbots) |
-| Void Servers | A discord server list made with express and ejs! | [GitHub](https://github.com/TheVoidDevs/VoidServers) |
-| Primo | A discord bot that has a lot of features! | [Website](https://primo.vd.wtf) [Invite](https://primo.vd.wtf) |
-| Soundboard | A discord bot that plays sound effects into a voice channel! | [Website](https://soundboard.vd.wtf) [Invite](https://soundboard.vd.wtf/invite) |
-| JAPI.Rest | A simple api made with fastify and nodejs | [Website](https://japi.rest) [Docs](https://docs.japi.rest) [GitHub](https://github.com/JapiRest/) |
+- 💻 My Development Organization: https://github.com/enecs
 
 ## My Github Statistics
 These stats are based off my public repositories. (For those who are not as bright, this means that private repositories are not tracked.)
