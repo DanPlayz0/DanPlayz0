@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=DanPlayz0&style=flat&color=DC143C)
 ![](https://img.shields.io/github/followers/DanPlayz0?style=social) 
-<a href="https://danplayz0.itch.io/"><img src="https://img.shields.io/badge/~/Itch.io-fa5c5c.svg?&style=flat&logo=itch.io&logoColor=white"></a>
+<!-- <a href="https://danplayz0.itch.io/"><img src="https://img.shields.io/badge/~/Itch.io-fa5c5c.svg?&style=flat&logo=itch.io&logoColor=white"></a> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DanPlayz0&column=8&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
