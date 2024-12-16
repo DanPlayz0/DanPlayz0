@@ -1,4 +1,4 @@
-<h1 align="center">Hi :wave: I'm DanPlayz!</h1>
+<h1 align="center">Hi :wave: I'm Dan!</h1>
 
 ![](https://komarev.com/ghpvc/?username=DanPlayz0&style=flat&color=DC143C)
 ![](https://img.shields.io/github/followers/DanPlayz0?style=social)
