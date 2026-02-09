@@ -1,5 +1,5 @@
 <h1 align="center">Hi :wave: I'm Dan!</h1>
-<p>View a list of my [projects](https://compiles.me/projects)</p>
+<p align="center">View a list of my <a href="https://compiles.me/projects">projects</a></p>
 
 ![](https://komarev.com/ghpvc/?username=DanPlayz0&style=flat&color=DC143C)
 ![](https://img.shields.io/github/followers/DanPlayz0?style=social)
